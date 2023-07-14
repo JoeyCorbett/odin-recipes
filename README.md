@@ -1,5 +1,5 @@
-A recipe website which uses html to display different recipes and allows
+A recipe website which uses html to display different recipes. Allows
 the user to click on links that lead to other pages in the directory to 
-get more concise information on the recipe such as ingredients and instructions
+get more concise information on the recipe such as ingredients and instructions.
 
-Skills Demonstrated:
+Link - https://joeycorbett.github.io/odin-recipes/
