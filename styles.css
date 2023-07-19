@@ -5,8 +5,12 @@
 }
 
 .index {
-    background-image: url(/images/cooking.avif);
+    background-image: url(../images/cooking.avif);
     min-height: 100%;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
 }
 
 img {
