@@ -13,8 +13,16 @@ img {
     height: auto;
 }
 
+.list {
+    font-weight: bold;
+}
+
 .header {
     font-size: 70px;
+}
+
+.recipe-header {
+    font-size: 45px;
 }
 
 h2 {
@@ -27,6 +35,6 @@ h2 {
 }
 
 #Tso {
-    width: 400px;
+    width: 450px;
     height: auto;
 }
