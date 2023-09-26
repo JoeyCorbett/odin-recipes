@@ -5,25 +5,26 @@
 }
 
 .index {
-    background-image: url(images/flat-lay-mozzarella-tomatoes-copy-space.jpg);
-    background-size: 110%;
+    background-color: lightblue;
+    background-size: cover;
     background-position: center;
+    width: 90%;
+
 }
 
 img {
     width: 550px;
     height: auto;
-    margin-left: 20%;
+
 }
 
 .list {
     font-weight: bold;
-    margin-left: 20%;
+    margin: auto;
 }
 
 .header {
     font-size: 70px;
-    margin-left: 20%;
 }
 
 .recipe-header {
@@ -32,7 +33,7 @@ img {
 
 h2 {
     font-size: 33px;
-    margin-left: 20%;
+    margin: auto;
 }
 
 #steak {
