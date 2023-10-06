@@ -3,18 +3,18 @@
     list-style-position: inside;
     font-family: sans-serif, Georgia, Garamond;
     box-sizing: border-box;
+
 }
 
 .layout-box {
-    height: 1850px;
+    height: 2240px;
     width: 750px;
     margin:auto;
-    background-color:  rgb(150, 161, 161, 0.5)
-
+    background-color:  rgba(138, 95, 118, 0.3)
 }
 
 .index {
-    background-color: rgb(238, 232, 232, 0.5)
+    background-color: rgba(255, 174, 0, 0.5)
 
 }
 
@@ -27,19 +27,23 @@ img {
     width: 450px;
     height: auto;
     margin: auto;
-
 }
 
 .list {
     font-weight: bold;
     list-style: none;
-    padding: 0;
 }
 
 li {
-    text-align: center;
-    padding: 3px 0;
-    margin: 0;
+    padding: 5px 0;
+    margin-left: 220px;
+    margin-right: 110px;
+    text-align: left;
+}
+
+ol {
+    margin-right: 70px;
+    margin-left: 0px;
 }
 
 a {
@@ -52,7 +56,8 @@ a {
 
 .recipe-header {
     font-size: 45px;
-    margin-top: 0;
+    margin-top: 5px;
+    padding-top: 25px;
 }
 
 h2 {
@@ -70,3 +75,8 @@ h2 {
     width: 450px;
     height: auto;
 }
+
+#parm {
+    border: solid black 4px;
+}
+
