@@ -2,10 +2,25 @@
     text-align: center;
     list-style-position: inside;
     font-family: sans-serif, Georgia, Garamond;
+    box-sizing: border-box;
+}
+
+.layout-box {
+    height: 1850px;
+    width: 750px;
+    margin:auto;
+    background-color:  rgb(150, 161, 161, 0.5)
+
 }
 
 .index {
-    background-color: rgba(79, 154, 240, 0.5)
+    background-color: rgb(238, 232, 232, 0.5)
+
+}
+
+p {
+    margin-right: 60px;
+    margin-left: 60px;
 }
 
 img {
@@ -37,11 +52,13 @@ a {
 
 .recipe-header {
     font-size: 45px;
+    margin-top: 0;
 }
 
 h2 {
     font-size: 33px;
     margin: auto;
+    margin-top: 30px;
 }
 
 #steak {
