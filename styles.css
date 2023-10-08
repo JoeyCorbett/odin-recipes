@@ -5,6 +5,14 @@
     box-sizing: border-box;
 }
 
+.layout-box-odin {
+    height: 875px;
+    width: 1790px;
+    background-color: rgba(138, 95, 118, 0.3);
+    margin: auto;
+    margin-top: 40px;
+}
+
 .layout-box-parm {
     height: 2260px;
     width: 750px;
@@ -74,6 +82,7 @@ a {
 
 .header {
     font-size: 70px;
+    margin-top: 80px;
 }
 
 .recipe-header {
@@ -90,6 +99,10 @@ h2 {
     font-size: 33px;
     margin: auto;
     margin-top: 30px;
+}
+
+.h2-index {
+    margin-top: 25px;
 }
 
 #steak {
