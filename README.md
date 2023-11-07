@@ -1,4 +1,4 @@
-A recipe website which uses html to display different recipes. Allows
+A recipe website which uses html and css to display different recipes. Allows
 the user to click on links that lead to other pages in the directory to 
 get more concise information on the recipe such as ingredients and instructions.
 
